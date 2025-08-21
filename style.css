@@ -120,8 +120,8 @@ body{ scroll-snap-type: y mandatory; }
 
 /* ====== Mídias nas páginas personalizáveis ====== */
 img {
-  width: 400px;
-  height: 500px;
+  width: 100px;
+  height: 120px;
   object-fit: cover; /* evita distorção */
   margin: 0 auto 20px auto;
   display: block;
@@ -215,6 +215,7 @@ html, body {
   width: 100%;
   scroll-snap-align: start; /* trava no começo da seção */
 }
+
 
 
 
