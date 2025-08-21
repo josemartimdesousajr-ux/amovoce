@@ -120,8 +120,8 @@ body{ scroll-snap-type: y mandatory; }
 
 /* ====== Mídias nas páginas personalizáveis ====== */
 .custom-img {
-  width: 500px;          /* largura fixa */
-  height: 850px;         /* altura fixa */
+  width: 1500px;          /* largura fixa */
+  height: 1850px;         /* altura fixa */
   object-fit: cover;     /* corta/ajusta a imagem para caber sem distorcer */
   margin: 0 auto 20px auto;
   display: block;
@@ -215,6 +215,7 @@ html, body {
   width: 100%;
   scroll-snap-align: start; /* trava no começo da seção */
 }
+
 
 
 
